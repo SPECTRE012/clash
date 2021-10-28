@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/bgbox.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/butback.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/butback2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/butten.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/buttonbg.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/gmailogin.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/passwordicon.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_main.xml" value="0.2551440329218107" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_mainpage.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_newlogin.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_otppage2.xml" value="0.15081521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
