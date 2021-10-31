@@ -11,13 +11,16 @@
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/buttonbg.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/gmailogin.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/ic_launcher_background.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/loadbut.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/drawable/passwordicon.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_main.xml" value="0.2551440329218107" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_main2.xml" value="0.264" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_mainpage.xml" value="0.25677083333333334" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_newlogin.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_newone.xml" value="0.2" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_otppage2.xml" value="0.15081521739130435" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/clash/app/src/main/res/layout/activity_start.xml" value="0.25677083333333334" />
       </map>
     </option>
   </component>
